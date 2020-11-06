@@ -1,0 +1,9 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+#wpadminbar #wp-admin-bar-user-actions #wp-admin-bar-user-info,
+#wpadminbar #wp-admin-bar-user-actions #wp-admin-bar-edit-profile,
+#wpadminbar #wp-admin-bar-root-default{
+    display: none !important;
+}
